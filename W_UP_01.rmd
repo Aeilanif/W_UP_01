@@ -53,7 +53,7 @@ So we use a numerical~cat helper file
 boxplot(pushups~position,data=mydata)
 ```
 
-The boxplots shows that players in SKILL positions typically do more pushups in 2 minutes than do players in the LINE position
+The boxplots shows that players in SKILL positions typically do more pushups in 2 minutes than do players in the LINE position.
 
 ### Numerical Descriptive Results
 
@@ -74,11 +74,14 @@ t.test(pushups~position,data=mydata)
 ```
 
 The p-value is 0.000000421 < 0.05 so we reject $H_0$
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+ 
 
-According to our data plans , the SKILL players can do more pushups then LINE players. 
+
+According to the results from our data, its seems to be that SKILL players can do more pushups then LINE players.
 
 
 
